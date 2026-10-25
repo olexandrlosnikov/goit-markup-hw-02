@@ -24,10 +24,5 @@
 
 .hero-button:hover,
 .hero-button:focus {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  max-width: 169px;
   background-color: #404bbf;
 }
